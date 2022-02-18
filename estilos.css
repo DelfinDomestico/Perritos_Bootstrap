@@ -1,0 +1,15 @@
+.navegacion{
+    background-color: rgb(224, 164, 72) ;   
+    
+}
+.recomendaciones{
+    display: flex;
+    justify-content: flex-start;
+    flex-basis: 82%;
+    background-color: rgba(233, 211, 179, 0.4) ;
+}
+.recomendaciones img{
+    padding-top: 10px;
+    text-align: right;
+    width: 40%;
+}
